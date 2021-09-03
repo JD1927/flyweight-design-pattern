@@ -1,0 +1,24 @@
+{
+  "name": "flyweight-design-pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./dist/main.js",
+    "build": "tsc",
+    "build:w": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JD1927/flyweight-design-pattern.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JD1927/flyweight-design-pattern/issues"
+  },
+  "homepage": "https://github.com/JD1927/flyweight-design-pattern#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
