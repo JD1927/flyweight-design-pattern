@@ -19,6 +19,11 @@
   },
   "homepage": "https://github.com/JD1927/flyweight-design-pattern#readme",
   "dependencies": {
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.12",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^16.7.10",
+    "@types/readline-sync": "^1.4.4"
   }
 }
